@@ -67,5 +67,5 @@ This project demonstrates how machine learning, particularly Random Forest, can 
 ---
 **Contributors:** Omar Essam  
 **License:** MIT  
-**Data Source:** [NHANES]([https://www.cdc.gov/nchs/nhanes/index.htm](https://www.cdc.gov/))
+**Data Source:** [NHANES](https://www.cdc.gov/nchs/nhanes/index.htm)
 
