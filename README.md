@@ -3,7 +3,7 @@
 ## Introduction
 Chronic Heart Disease (CHD) remains one of the leading causes of mortality worldwide. Early prediction of heart disease can help in taking preventive measures, improving patient outcomes, and reducing healthcare costs. This project aims to predict the likelihood of a person having heart disease using a Random Forest model trained on data from the **National Health and Nutrition Examination Survey (NHANES)**.
 
-The NHANES dataset is a comprehensive survey that assesses the health and nutritional status of adults and children in the United States. The dataset includes medical, demographic, and lifestyle factors that contribute to chronic diseases, including CHD. More information about NHANES can be found [here]([[https://www.cdc.gov/nchs/nhanes/index.htm](https://www.cdc.gov/)](https://www.cdc.gov/nchs/nhanes/)).
+The NHANES dataset is a comprehensive survey that assesses the health and nutritional status of adults and children in the United States. The dataset includes medical, demographic, and lifestyle factors that contribute to chronic diseases, including CHD. More information about NHANES can be found [here]([[https://www.cdc.gov/nchs/nhanes/index.htm]).
 
 ## Dataset Overview
 The data used in this project has been collected from NHANES cycles spanning from **2005 to 2020**. Relevant features were selected based on their impact on heart disease and risk factors, as indicated in medical research. The following features were identified as the most important based on the trained Random Forest model:
