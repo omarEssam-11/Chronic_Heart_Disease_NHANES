@@ -58,7 +58,5 @@ The **ROC-AUC** curve provides a graphical representation of the model’s abili
 This project demonstrates how machine learning, particularly Random Forest, can be used to predict chronic heart disease effectively. With high precision and recall, this model can assist healthcare professionals in early detection and intervention for individuals at risk of CHD.
 
 ---
-**Contributors:** Omar Essam  
-**License:** MIT  
 **Data Source:** [NHANES](https://www.cdc.gov/nchs/nhanes/index.htm)
 
