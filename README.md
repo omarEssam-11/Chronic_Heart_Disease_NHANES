@@ -53,13 +53,6 @@ The **ROC-AUC** curve provides a graphical representation of the model’s abili
 ![ROC-AUC Curve](https://github.com/omarEssam-11/Chronic_Heart_Disease_NHANES/blob/main/src/roc-auc.png)
 
 
-## Saving and Loading the Model
-The trained model is saved as **`CHD_RF.pkl`** and can be loaded for future predictions:
-```python
-import joblib
-model = joblib.load('CHD_RF.pkl')
-predictions = model.predict(X_test)
-```
 
 ## Conclusion
 This project demonstrates how machine learning, particularly Random Forest, can be used to predict chronic heart disease effectively. With high precision and recall, this model can assist healthcare professionals in early detection and intervention for individuals at risk of CHD.
